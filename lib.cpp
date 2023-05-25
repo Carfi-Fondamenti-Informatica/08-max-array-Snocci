@@ -1,3 +1,5 @@
+#include <iostream>
+#include "lib.h"
 void funzione( float a[], float max, int dim) {
 
 
